@@ -1,4 +1,4 @@
-# 2312
+# 1
 mkdir  directory    #建立Git仓库
 
 git init     #初始化Git仓库
